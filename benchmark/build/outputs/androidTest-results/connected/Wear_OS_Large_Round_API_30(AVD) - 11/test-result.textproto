@@ -1,0 +1,2750 @@
+# 2022-11-16T21:27:57.813Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 2
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "StartupBenchmark"
+    test_package: "com.example.android.wearable.composeadvanced.benchmark"
+    test_method: "startup[compilation=None]"
+    start_time {
+      seconds: 1668634008
+      nanos: 411000000
+    }
+    end_time {
+      seconds: 1668634041
+      nanos: 377000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.message"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/additionaltestoutput.benchmark.message.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/androidTest-results/connected/Wear_OS_Large_Round_API_30(AVD) - 11/logcat-com.example.android.wearable.composeadvanced.benchmark.StartupBenchmark-startup[compilation=None].txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/androidTest-results/connected/Wear_OS_Large_Round_API_30(AVD) - 11/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/androidTest-results/connected/Wear_OS_Large_Round_API_30(AVD) - 11/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/androidTest-results/connected/Wear_OS_Large_Round_API_30(AVD) - 11/cpuinfo"
+    }
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   min 291.7,   median 322.5,   max 362.7\ntimeToInitialDisplayMs   min 164.2,   median 180.4,   max 194.0"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   [min 291.7](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 322.5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 362.7](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace)\ntimeToInitialDisplayMs   [min 164.2](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 180.4](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 194.0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "322.511481"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "291.69969"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "19.918248684141595"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "180.4279935"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "164.178679"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "9.250973287127502"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   min 291.7,   median 322.5,   max 362.7\ntimeToInitialDisplayMs   min 164.2,   median 180.4,   max 194.0"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   [min 291.7](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 322.5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 362.7](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace)\ntimeToInitialDisplayMs   [min 164.2](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 180.4](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 194.0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "322.511481"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "291.69969"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "19.918248684141595"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "180.4279935"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "164.178679"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "9.250973287127502"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   min 291.7,   median 322.5,   max 362.7\ntimeToInitialDisplayMs   min 164.2,   median 180.4,   max 194.0"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   [min 291.7](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 322.5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 362.7](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace)\ntimeToInitialDisplayMs   [min 164.2](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 180.4](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 194.0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "322.511481"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "291.69969"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "19.918248684141595"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "180.4279935"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "164.178679"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "9.250973287127502"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   min 291.7,   median 322.5,   max 362.7\ntimeToInitialDisplayMs   min 164.2,   median 180.4,   max 194.0"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   [min 291.7](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 322.5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 362.7](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace)\ntimeToInitialDisplayMs   [min 164.2](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 180.4](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 194.0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "322.511481"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "291.69969"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "19.918248684141595"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "180.4279935"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "164.178679"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "9.250973287127502"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   min 291.7,   median 322.5,   max 362.7\ntimeToInitialDisplayMs   min 164.2,   median 180.4,   max 194.0"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   [min 291.7](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 322.5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 362.7](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace)\ntimeToInitialDisplayMs   [min 164.2](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 180.4](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 194.0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "322.511481"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "291.69969"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "19.918248684141595"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "180.4279935"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "164.178679"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "9.250973287127502"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   min 291.7,   median 322.5,   max 362.7\ntimeToInitialDisplayMs   min 164.2,   median 180.4,   max 194.0"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   [min 291.7](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 322.5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 362.7](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace)\ntimeToInitialDisplayMs   [min 164.2](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 180.4](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 194.0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "322.511481"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "291.69969"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "19.918248684141595"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "180.4279935"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "164.178679"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "9.250973287127502"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   min 291.7,   median 322.5,   max 362.7\ntimeToInitialDisplayMs   min 164.2,   median 180.4,   max 194.0"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   [min 291.7](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 322.5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 362.7](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace)\ntimeToInitialDisplayMs   [min 164.2](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 180.4](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 194.0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "322.511481"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "291.69969"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "19.918248684141595"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "180.4279935"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "164.178679"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "9.250973287127502"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   min 291.7,   median 322.5,   max 362.7\ntimeToInitialDisplayMs   min 164.2,   median 180.4,   max 194.0"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   [min 291.7](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 322.5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 362.7](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace)\ntimeToInitialDisplayMs   [min 164.2](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 180.4](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 194.0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "322.511481"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "291.69969"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "19.918248684141595"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "180.4279935"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "164.178679"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "9.250973287127502"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   min 291.7,   median 322.5,   max 362.7\ntimeToInitialDisplayMs   min 164.2,   median 180.4,   max 194.0"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   [min 291.7](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 322.5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 362.7](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace)\ntimeToInitialDisplayMs   [min 164.2](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 180.4](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 194.0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "322.511481"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "291.69969"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "19.918248684141595"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "180.4279935"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "164.178679"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "9.250973287127502"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   min 291.7,   median 322.5,   max 362.7\ntimeToInitialDisplayMs   min 164.2,   median 180.4,   max 194.0"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   [min 291.7](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 322.5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 362.7](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace)\ntimeToInitialDisplayMs   [min 164.2](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 180.4](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 194.0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "322.511481"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "291.69969"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "19.918248684141595"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "180.4279935"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "164.178679"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "9.250973287127502"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   min 291.7,   median 322.5,   max 362.7\ntimeToInitialDisplayMs   min 164.2,   median 180.4,   max 194.0"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   [min 291.7](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 322.5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 362.7](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace)\ntimeToInitialDisplayMs   [min 164.2](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 180.4](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 194.0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "322.511481"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "291.69969"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "19.918248684141595"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "180.4279935"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "164.178679"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "9.250973287127502"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   min 291.7,   median 322.5,   max 362.7\ntimeToInitialDisplayMs   min 164.2,   median 180.4,   max 194.0"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   [min 291.7](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 322.5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 362.7](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace)\ntimeToInitialDisplayMs   [min 164.2](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 180.4](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 194.0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "322.511481"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "291.69969"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "19.918248684141595"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "180.4279935"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "164.178679"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "9.250973287127502"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   min 291.7,   median 322.5,   max 362.7\ntimeToInitialDisplayMs   min 164.2,   median 180.4,   max 194.0"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   [min 291.7](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 322.5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 362.7](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace)\ntimeToInitialDisplayMs   [min 164.2](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 180.4](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 194.0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "322.511481"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "291.69969"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "19.918248684141595"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "180.4279935"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "164.178679"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "9.250973287127502"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   min 291.7,   median 322.5,   max 362.7\ntimeToInitialDisplayMs   min 164.2,   median 180.4,   max 194.0"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   [min 291.7](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 322.5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 362.7](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace)\ntimeToInitialDisplayMs   [min 164.2](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 180.4](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 194.0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "322.511481"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "291.69969"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "19.918248684141595"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "180.4279935"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "164.178679"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "9.250973287127502"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   min 291.7,   median 322.5,   max 362.7\ntimeToInitialDisplayMs   min 164.2,   median 180.4,   max 194.0"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   [min 291.7](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 322.5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 362.7](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace)\ntimeToInitialDisplayMs   [min 164.2](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 180.4](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 194.0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "322.511481"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "291.69969"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "19.918248684141595"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "180.4279935"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "164.178679"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "9.250973287127502"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   min 291.7,   median 322.5,   max 362.7\ntimeToInitialDisplayMs   min 164.2,   median 180.4,   max 194.0"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=None]\ntimeToFullDisplayMs   [min 291.7](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 322.5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 362.7](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace)\ntimeToInitialDisplayMs   [min 164.2](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace),   [median 180.4](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace),   [max 194.0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=None]_iter000_2022-11-16-21-26-51.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=None]_iter001_2022-11-16-21-26-55.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=None]_iter002_2022-11-16-21-26-58.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=None]_iter003_2022-11-16-21-27-01.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=None]_iter004_2022-11-16-21-27-04.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=None]_iter005_2022-11-16-21-27-08.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=None]_iter006_2022-11-16-21-27-11.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=None]_iter007_2022-11-16-21-27-14.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=None]_iter008_2022-11-16-21-27-17.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=None]_iter009_2022-11-16-21-27-20.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "322.511481"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "291.69969"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "19.918248684141595"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "180.4279935"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "164.178679"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "9.250973287127502"
+  }
+}
+test_result {
+  test_case {
+    test_class: "StartupBenchmark"
+    test_package: "com.example.android.wearable.composeadvanced.benchmark"
+    test_method: "startup[compilation=BaselineProfile]"
+    start_time {
+      seconds: 1668634041
+      nanos: 607000000
+    }
+    end_time {
+      seconds: 1668634075
+      nanos: 805000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.message"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/additionaltestoutput.benchmark.message.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "additionaltestoutput.benchmark.trace"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/connected_android_test_additional_output/benchmark/connected/Wear_OS_Large_Round_API_30(AVD) - 11/StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace"
+    }
+  }
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/androidTest-results/connected/Wear_OS_Large_Round_API_30(AVD) - 11/logcat-com.example.android.wearable.composeadvanced.benchmark.StartupBenchmark-startup[compilation=BaselineProfile].txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/androidTest-results/connected/Wear_OS_Large_Round_API_30(AVD) - 11/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/androidTest-results/connected/Wear_OS_Large_Round_API_30(AVD) - 11/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/androidTest-results/connected/Wear_OS_Large_Round_API_30(AVD) - 11/cpuinfo"
+    }
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   min 200.7,   median 224.4,   max 247.8\ntimeToInitialDisplayMs   min 136.6,   median 154.8,   max 174.4"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   [min 200.7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 224.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 247.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\ntimeToInitialDisplayMs   [min 136.6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 154.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 174.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "224.376888"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "200.703398"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "15.32359696680397"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "154.82599299999998"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "136.55274"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "12.242459963606086"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   min 200.7,   median 224.4,   max 247.8\ntimeToInitialDisplayMs   min 136.6,   median 154.8,   max 174.4"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   [min 200.7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 224.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 247.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\ntimeToInitialDisplayMs   [min 136.6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 154.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 174.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "224.376888"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "200.703398"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "15.32359696680397"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "154.82599299999998"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "136.55274"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "12.242459963606086"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   min 200.7,   median 224.4,   max 247.8\ntimeToInitialDisplayMs   min 136.6,   median 154.8,   max 174.4"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   [min 200.7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 224.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 247.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\ntimeToInitialDisplayMs   [min 136.6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 154.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 174.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "224.376888"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "200.703398"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "15.32359696680397"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "154.82599299999998"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "136.55274"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "12.242459963606086"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   min 200.7,   median 224.4,   max 247.8\ntimeToInitialDisplayMs   min 136.6,   median 154.8,   max 174.4"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   [min 200.7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 224.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 247.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\ntimeToInitialDisplayMs   [min 136.6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 154.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 174.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "224.376888"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "200.703398"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "15.32359696680397"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "154.82599299999998"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "136.55274"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "12.242459963606086"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   min 200.7,   median 224.4,   max 247.8\ntimeToInitialDisplayMs   min 136.6,   median 154.8,   max 174.4"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   [min 200.7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 224.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 247.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\ntimeToInitialDisplayMs   [min 136.6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 154.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 174.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "224.376888"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "200.703398"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "15.32359696680397"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "154.82599299999998"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "136.55274"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "12.242459963606086"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   min 200.7,   median 224.4,   max 247.8\ntimeToInitialDisplayMs   min 136.6,   median 154.8,   max 174.4"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   [min 200.7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 224.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 247.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\ntimeToInitialDisplayMs   [min 136.6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 154.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 174.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "224.376888"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "200.703398"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "15.32359696680397"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "154.82599299999998"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "136.55274"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "12.242459963606086"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   min 200.7,   median 224.4,   max 247.8\ntimeToInitialDisplayMs   min 136.6,   median 154.8,   max 174.4"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   [min 200.7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 224.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 247.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\ntimeToInitialDisplayMs   [min 136.6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 154.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 174.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "224.376888"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "200.703398"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "15.32359696680397"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "154.82599299999998"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "136.55274"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "12.242459963606086"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   min 200.7,   median 224.4,   max 247.8\ntimeToInitialDisplayMs   min 136.6,   median 154.8,   max 174.4"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   [min 200.7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 224.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 247.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\ntimeToInitialDisplayMs   [min 136.6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 154.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 174.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "224.376888"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "200.703398"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "15.32359696680397"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "154.82599299999998"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "136.55274"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "12.242459963606086"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   min 200.7,   median 224.4,   max 247.8\ntimeToInitialDisplayMs   min 136.6,   median 154.8,   max 174.4"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   [min 200.7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 224.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 247.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\ntimeToInitialDisplayMs   [min 136.6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 154.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 174.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "224.376888"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "200.703398"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "15.32359696680397"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "154.82599299999998"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "136.55274"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "12.242459963606086"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   min 200.7,   median 224.4,   max 247.8\ntimeToInitialDisplayMs   min 136.6,   median 154.8,   max 174.4"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   [min 200.7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 224.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 247.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\ntimeToInitialDisplayMs   [min 136.6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 154.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 174.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "224.376888"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "200.703398"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "15.32359696680397"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "154.82599299999998"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "136.55274"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "12.242459963606086"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   min 200.7,   median 224.4,   max 247.8\ntimeToInitialDisplayMs   min 136.6,   median 154.8,   max 174.4"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   [min 200.7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 224.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 247.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\ntimeToInitialDisplayMs   [min 136.6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 154.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 174.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "224.376888"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "200.703398"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "15.32359696680397"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "154.82599299999998"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "136.55274"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "12.242459963606086"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   min 200.7,   median 224.4,   max 247.8\ntimeToInitialDisplayMs   min 136.6,   median 154.8,   max 174.4"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   [min 200.7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 224.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 247.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\ntimeToInitialDisplayMs   [min 136.6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 154.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 174.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "224.376888"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "200.703398"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "15.32359696680397"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "154.82599299999998"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "136.55274"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "12.242459963606086"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   min 200.7,   median 224.4,   max 247.8\ntimeToInitialDisplayMs   min 136.6,   median 154.8,   max 174.4"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   [min 200.7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 224.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 247.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\ntimeToInitialDisplayMs   [min 136.6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 154.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 174.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "224.376888"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "200.703398"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "15.32359696680397"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "154.82599299999998"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "136.55274"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "12.242459963606086"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   min 200.7,   median 224.4,   max 247.8\ntimeToInitialDisplayMs   min 136.6,   median 154.8,   max 174.4"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   [min 200.7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 224.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 247.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\ntimeToInitialDisplayMs   [min 136.6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 154.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 174.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "224.376888"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "200.703398"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "15.32359696680397"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "154.82599299999998"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "136.55274"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "12.242459963606086"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   min 200.7,   median 224.4,   max 247.8\ntimeToInitialDisplayMs   min 136.6,   median 154.8,   max 174.4"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   [min 200.7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 224.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 247.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\ntimeToInitialDisplayMs   [min 136.6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 154.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 174.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "224.376888"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "200.703398"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "15.32359696680397"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "154.82599299999998"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "136.55274"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "12.242459963606086"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_000"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_001"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_002"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_003"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_004"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_005"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_006"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_007"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_008"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace"
+  }
+  details {
+    key: "additionalTestOutputFile_perfetto_trace_009"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output/StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace"
+  }
+  details {
+    key: "android.studio.display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   min 200.7,   median 224.4,   max 247.8\ntimeToInitialDisplayMs   min 136.6,   median 154.8,   max 174.4"
+  }
+  details {
+    key: "android.studio.v2display.benchmark"
+    value: "StartupBenchmark_startup[compilation=BaselineProfile]\ntimeToFullDisplayMs   [min 200.7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 224.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 247.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\ntimeToInitialDisplayMs   [min 136.6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [median 154.8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace),   [max 174.4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace)\nTraces: Iteration [0](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter000_2022-11-16-21-27-26.perfetto-trace) [1](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter001_2022-11-16-21-27-29.perfetto-trace) [2](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter002_2022-11-16-21-27-32.perfetto-trace) [3](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter003_2022-11-16-21-27-35.perfetto-trace) [4](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter004_2022-11-16-21-27-38.perfetto-trace) [5](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter005_2022-11-16-21-27-42.perfetto-trace) [6](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter006_2022-11-16-21-27-45.perfetto-trace) [7](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter007_2022-11-16-21-27-48.perfetto-trace) [8](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter008_2022-11-16-21-27-51.perfetto-trace) [9](file://StartupBenchmark_startup[compilation=BaselineProfile]_iter009_2022-11-16-21-27-54.perfetto-trace)"
+  }
+  details {
+    key: "android.studio.v2display.benchmark.outputDirPath"
+    value: "/sdcard/Android/media/com.example.android.wearable.composeadvanced.benchmark/additional_test_output"
+  }
+  details {
+    key: "time_to_full_display_millis_median"
+    value: "224.376888"
+  }
+  details {
+    key: "time_to_full_display_millis_min"
+    value: "200.703398"
+  }
+  details {
+    key: "time_to_full_display_millis_stddev"
+    value: "15.32359696680397"
+  }
+  details {
+    key: "time_to_initial_display_millis_median"
+    value: "154.82599299999998"
+  }
+  details {
+    key: "time_to_initial_display_millis_min"
+    value: "136.55274"
+  }
+  details {
+    key: "time_to_initial_display_millis_stddev"
+    value: "12.242459963606086"
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/outputs/androidTest-results/connected/Wear_OS_Large_Round_API_30(AVD) - 11/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

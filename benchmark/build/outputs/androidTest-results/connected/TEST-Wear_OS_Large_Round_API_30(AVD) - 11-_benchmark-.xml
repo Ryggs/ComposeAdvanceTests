@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.android.wearable.composeadvanced.benchmark.StartupBenchmark" tests="2" failures="0" errors="0" skipped="0" time="69.317" timestamp="2022-11-16T21:27:57" hostname="localhost">
+  <properties>
+    <property name="device" value="Wear_OS_Large_Round_API_30(AVD) - 11" />
+    <property name="flavor" value="" />
+    <property name="project" value=":benchmark" />
+  </properties>
+  <testcase name="startup[compilation=None]" classname="com.example.android.wearable.composeadvanced.benchmark.StartupBenchmark" time="33.162" />
+  <testcase name="startup[compilation=BaselineProfile]" classname="com.example.android.wearable.composeadvanced.benchmark.StartupBenchmark" time="34.415" />
+</testsuite>
