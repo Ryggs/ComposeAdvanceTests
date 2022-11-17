@@ -1,0 +1,7 @@
+com.example.android.wearable.composeadvanced.benchmark
+drawable logo
+id clock_state
+layout isolation_activity
+string androidx_startup
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

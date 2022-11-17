@@ -1,0 +1,116 @@
+{
+    "context": {
+        "build": {
+            "brand": "google",
+            "device": "generic_x86_arm",
+            "fingerprint": "google/sdk_gwear_x86/generic_x86_arm:11/RWD9.220429.053.E3/9126963:userdebug/dev-keys",
+            "model": "sdk_gwear_x86",
+            "version": {
+                "sdk": 30
+            }
+        },
+        "cpuCoreCount": 4,
+        "cpuLocked": false,
+        "cpuMaxFreqHz": 2000,
+        "memTotalBytes": 2076868608,
+        "sustainedPerformanceModeEnabled": false
+    },
+    "benchmarks": [
+        {
+            "name": "startup[compilation=None]",
+            "params": {
+                "compilation": "None"
+            },
+            "className": "com.example.android.wearable.composeadvanced.benchmark.StartupBenchmark",
+            "totalRunTimeNs": 32767655771,
+            "metrics": {
+                "timeToFullDisplayMs": {
+                    "minimum": 291.69969,
+                    "maximum": 362.727296,
+                    "median": 322.511481,
+                    "runs": [
+                        340.209856,
+                        318.507748,
+                        338.597055,
+                        311.530604,
+                        333.988787,
+                        362.727296,
+                        326.515214,
+                        315.144172,
+                        310.221002,
+                        291.69969
+                    ]
+                },
+                "timeToInitialDisplayMs": {
+                    "minimum": 164.178679,
+                    "maximum": 194.014801,
+                    "median": 180.4279935,
+                    "runs": [
+                        194.014801,
+                        179.329486,
+                        188.270908,
+                        181.526501,
+                        183.539332,
+                        182.758695,
+                        178.693814,
+                        169.579013,
+                        168.554663,
+                        164.178679
+                    ]
+                }
+            },
+            "sampledMetrics": {},
+            "warmupIterations": 0,
+            "repeatIterations": 10,
+            "thermalThrottleSleepSeconds": 0
+        },
+        {
+            "name": "startup[compilation=BaselineProfile]",
+            "params": {
+                "compilation": "BaselineProfile"
+            },
+            "className": "com.example.android.wearable.composeadvanced.benchmark.StartupBenchmark",
+            "totalRunTimeNs": 34356183805,
+            "metrics": {
+                "timeToFullDisplayMs": {
+                    "minimum": 200.703398,
+                    "maximum": 247.828223,
+                    "median": 224.376888,
+                    "runs": [
+                        219.086701,
+                        226.695286,
+                        203.349073,
+                        218.690703,
+                        247.828223,
+                        200.703398,
+                        222.123028,
+                        226.630748,
+                        244.890815,
+                        232.393151
+                    ]
+                },
+                "timeToInitialDisplayMs": {
+                    "minimum": 136.55274,
+                    "maximum": 174.362314,
+                    "median": 154.82599299999998,
+                    "runs": [
+                        152.083197,
+                        173.43408,
+                        145.572222,
+                        152.677203,
+                        174.362314,
+                        136.55274,
+                        161.700494,
+                        152.078224,
+                        168.890216,
+                        156.974783
+                    ]
+                }
+            },
+            "sampledMetrics": {},
+            "warmupIterations": 0,
+            "repeatIterations": 10,
+            "thermalThrottleSleepSeconds": 0
+        }
+    ]
+}

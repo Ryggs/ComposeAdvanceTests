@@ -1,0 +1,6 @@
+int drawable logo 0x7f010000
+int id clock_state 0x7f020000
+int layout isolation_activity 0x7f030000
+int string androidx_startup 0x7f040000
+int style WhiteBackgroundDialogTheme 0x7f050000
+int style WhiteBackgroundTheme 0x7f050001

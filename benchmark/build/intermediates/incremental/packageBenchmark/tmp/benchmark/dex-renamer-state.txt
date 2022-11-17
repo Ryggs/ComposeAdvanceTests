@@ -1,0 +1,10 @@
+#Thu Nov 17 00:06:21 EAT 2022
+base.2=/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/dex/benchmark/mergeProjectDexBenchmark/9/classes.dex
+path.2=9/classes.dex
+base.1=/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/dex/benchmark/mergeProjectDexBenchmark/0/classes.dex
+path.1=0/classes.dex
+base.0=/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/dex/benchmark/mergeExtDexBenchmark/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

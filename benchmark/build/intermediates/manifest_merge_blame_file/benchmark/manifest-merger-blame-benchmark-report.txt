@@ -1,0 +1,167 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.android.wearable.composeadvanced.benchmark" >
+4
+5    <uses-sdk
+5-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:6:5-8:41
+6        android:minSdkVersion="29"
+6-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:7:9-35
+7        android:targetSdkVersion="30" />
+7-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:8:9-38
+8
+9    <uses-feature android:name="android.hardware.type.watch" />
+9-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:10:5-64
+9-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:10:19-61
+10
+11    <queries>
+11-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:12:5-14:15
+12        <package android:name="com.example.android.wearable.composeadvanced.benchmark" />
+12-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:13:9-90
+12-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:13:18-87
+13        <package android:name="androidx.test.orchestrator" />
+13-->[androidx.test:runner:1.5.0] /home/ryggs/.gradle/caches/transforms-3/6df4d9aea3ff3d4712baeb8baab06c33/transformed/runner-1.5.0/AndroidManifest.xml:25:9-62
+13-->[androidx.test:runner:1.5.0] /home/ryggs/.gradle/caches/transforms-3/6df4d9aea3ff3d4712baeb8baab06c33/transformed/runner-1.5.0/AndroidManifest.xml:25:18-59
+14        <package android:name="androidx.test.services" />
+14-->[androidx.test:runner:1.5.0] /home/ryggs/.gradle/caches/transforms-3/6df4d9aea3ff3d4712baeb8baab06c33/transformed/runner-1.5.0/AndroidManifest.xml:26:9-58
+14-->[androidx.test:runner:1.5.0] /home/ryggs/.gradle/caches/transforms-3/6df4d9aea3ff3d4712baeb8baab06c33/transformed/runner-1.5.0/AndroidManifest.xml:26:18-55
+15        <package android:name="com.google.android.apps.common.testing.services" />
+15-->[androidx.test:runner:1.5.0] /home/ryggs/.gradle/caches/transforms-3/6df4d9aea3ff3d4712baeb8baab06c33/transformed/runner-1.5.0/AndroidManifest.xml:27:9-83
+15-->[androidx.test:runner:1.5.0] /home/ryggs/.gradle/caches/transforms-3/6df4d9aea3ff3d4712baeb8baab06c33/transformed/runner-1.5.0/AndroidManifest.xml:27:18-80
+16    </queries>
+17
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:16:5-18:40
+18-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:17:9-65
+19
+20    <instrumentation
+20-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:20:5-25:90
+21        android:name="androidx.test.runner.AndroidJUnitRunner"
+21-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:21:9-63
+22        android:functionalTest="false"
+22-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:22:9-39
+23        android:handleProfiling="false"
+23-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:23:9-40
+24        android:label="Tests for com.example.android.wearable.composeadvanced.benchmark"
+24-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:24:9-89
+25        android:targetPackage="com.example.android.wearable.composeadvanced.benchmark" />
+25-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:25:9-87
+26
+27    <!--
+28    QUERY_ALL_PACKAGES is used to enable macrobenchmarks to read package information from
+29    potential target packages, e.g. for querying debuggable, profileable, or default launch intent.
+30
+31    This could also be done by making each macrobenchmark specify a <queries/> tag, with the
+32    target package, but this removes the need for documenting that setup step, and detecting
+33    misconfiguration.
+34    -->
+35    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+35-->[androidx.benchmark:benchmark-macro:1.1.1] /home/ryggs/.gradle/caches/transforms-3/4ef61d1cf2d18117a3cabc70f5aecf57/transformed/jetified-benchmark-macro-1.1.1/AndroidManifest.xml:33:5-35:53
+35-->[androidx.benchmark:benchmark-macro:1.1.1] /home/ryggs/.gradle/caches/transforms-3/4ef61d1cf2d18117a3cabc70f5aecf57/transformed/jetified-benchmark-macro-1.1.1/AndroidManifest.xml:34:9-61
+36    <uses-permission android:name="android.permission.REORDER_TASKS" />
+36-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:24:5-72
+36-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:24:22-69
+37
+38    <application
+38-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:27:5-29:19
+39        android:debuggable="true"
+40        android:extractNativeLibs="false" >
+41        <uses-library android:name="android.test.runner" />
+41-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:28:9-60
+41-->/home/ryggs/AndroidStudioProjects/wear-os-samples/ComposeAdvanced/benchmark/build/intermediates/tmp/manifest/benchmark/tempFile2ProcessTestManifest12514378509739666268.xml:28:23-57
+42        <!-- Activity used to block background content while benchmarks are running -->
+43        <activity
+43-->[androidx.benchmark:benchmark-common:1.1.1] /home/ryggs/.gradle/caches/transforms-3/5f4655ff6abd9d8aa33c38cb76b9b237/transformed/jetified-benchmark-common-1.1.1/AndroidManifest.xml:34:9-38:20
+44            android:name="androidx.benchmark.IsolationActivity"
+44-->[androidx.benchmark:benchmark-common:1.1.1] /home/ryggs/.gradle/caches/transforms-3/5f4655ff6abd9d8aa33c38cb76b9b237/transformed/jetified-benchmark-common-1.1.1/AndroidManifest.xml:35:13-64
+45            android:exported="true"
+45-->[androidx.benchmark:benchmark-common:1.1.1] /home/ryggs/.gradle/caches/transforms-3/5f4655ff6abd9d8aa33c38cb76b9b237/transformed/jetified-benchmark-common-1.1.1/AndroidManifest.xml:36:13-36
+46            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" >
+46-->[androidx.benchmark:benchmark-common:1.1.1] /home/ryggs/.gradle/caches/transforms-3/5f4655ff6abd9d8aa33c38cb76b9b237/transformed/jetified-benchmark-common-1.1.1/AndroidManifest.xml:37:13-77
+47        </activity>
+48        <activity
+48-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:27:9-34:20
+49            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+49-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:28:13-99
+50            android:exported="true"
+50-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:29:13-36
+51            android:theme="@style/WhiteBackgroundTheme" >
+51-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:30:13-56
+52            <intent-filter android:priority="-100" >
+52-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:13-33:29
+52-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:28-51
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:32:17-77
+53-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:32:27-74
+54            </intent-filter>
+55        </activity>
+56        <activity
+56-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:35:9-42:20
+57            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+57-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:36:13-95
+58            android:exported="true"
+58-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:37:13-36
+59            android:theme="@style/WhiteBackgroundTheme" >
+59-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:38:13-56
+60            <intent-filter android:priority="-100" >
+60-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:13-33:29
+60-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:28-51
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:32:17-77
+61-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:32:27-74
+62            </intent-filter>
+63        </activity>
+64        <activity
+64-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:43:9-50:20
+65            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+65-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:44:13-103
+66            android:exported="true"
+66-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:45:13-36
+67            android:theme="@style/WhiteBackgroundDialogTheme" >
+67-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:46:13-62
+68            <intent-filter android:priority="-100" >
+68-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:13-33:29
+68-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:31:28-51
+69                <category android:name="android.intent.category.LAUNCHER" />
+69-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:32:17-77
+69-->[androidx.test:core:1.5.0] /home/ryggs/.gradle/caches/transforms-3/b3b047846db2c799d1a22f6538b870e6/transformed/jetified-core-1.5.0/AndroidManifest.xml:32:27-74
+70            </intent-filter>
+71        </activity>
+72
+73        <provider
+73-->[androidx.profileinstaller:profileinstaller:1.0.3] /home/ryggs/.gradle/caches/transforms-3/c8294d0a99fdb70e802b8f638a2c67dd/transformed/jetified-profileinstaller-1.0.3/AndroidManifest.xml:26:9-34:20
+74            android:name="androidx.startup.InitializationProvider"
+74-->[androidx.profileinstaller:profileinstaller:1.0.3] /home/ryggs/.gradle/caches/transforms-3/c8294d0a99fdb70e802b8f638a2c67dd/transformed/jetified-profileinstaller-1.0.3/AndroidManifest.xml:27:13-67
+75            android:authorities="com.example.android.wearable.composeadvanced.benchmark.androidx-startup"
+75-->[androidx.profileinstaller:profileinstaller:1.0.3] /home/ryggs/.gradle/caches/transforms-3/c8294d0a99fdb70e802b8f638a2c67dd/transformed/jetified-profileinstaller-1.0.3/AndroidManifest.xml:28:13-68
+76            android:exported="false" >
+76-->[androidx.profileinstaller:profileinstaller:1.0.3] /home/ryggs/.gradle/caches/transforms-3/c8294d0a99fdb70e802b8f638a2c67dd/transformed/jetified-profileinstaller-1.0.3/AndroidManifest.xml:29:13-37
+77            <meta-data
+77-->[androidx.profileinstaller:profileinstaller:1.0.3] /home/ryggs/.gradle/caches/transforms-3/c8294d0a99fdb70e802b8f638a2c67dd/transformed/jetified-profileinstaller-1.0.3/AndroidManifest.xml:31:13-33:52
+78                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+78-->[androidx.profileinstaller:profileinstaller:1.0.3] /home/ryggs/.gradle/caches/transforms-3/c8294d0a99fdb70e802b8f638a2c67dd/transformed/jetified-profileinstaller-1.0.3/AndroidManifest.xml:32:17-85
+79                android:value="androidx.startup" />
+79-->[androidx.profileinstaller:profileinstaller:1.0.3] /home/ryggs/.gradle/caches/transforms-3/c8294d0a99fdb70e802b8f638a2c67dd/transformed/jetified-profileinstaller-1.0.3/AndroidManifest.xml:33:17-49
+80        </provider>
+81
+82        <receiver
+82-->[androidx.profileinstaller:profileinstaller:1.0.3] /home/ryggs/.gradle/caches/transforms-3/c8294d0a99fdb70e802b8f638a2c67dd/transformed/jetified-profileinstaller-1.0.3/AndroidManifest.xml:36:9-45:20
+83            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+83-->[androidx.profileinstaller:profileinstaller:1.0.3] /home/ryggs/.gradle/caches/transforms-3/c8294d0a99fdb70e802b8f638a2c67dd/transformed/jetified-profileinstaller-1.0.3/AndroidManifest.xml:37:13-76
+84            android:directBootAware="false"
+84-->[androidx.profileinstaller:profileinstaller:1.0.3] /home/ryggs/.gradle/caches/transforms-3/c8294d0a99fdb70e802b8f638a2c67dd/transformed/jetified-profileinstaller-1.0.3/AndroidManifest.xml:38:13-44
+85            android:enabled="true"
+85-->[androidx.profileinstaller:profileinstaller:1.0.3] /home/ryggs/.gradle/caches/transforms-3/c8294d0a99fdb70e802b8f638a2c67dd/transformed/jetified-profileinstaller-1.0.3/AndroidManifest.xml:39:13-35
+86            android:exported="true"
+86-->[androidx.profileinstaller:profileinstaller:1.0.3] /home/ryggs/.gradle/caches/transforms-3/c8294d0a99fdb70e802b8f638a2c67dd/transformed/jetified-profileinstaller-1.0.3/AndroidManifest.xml:40:13-36
+87            android:permission="android.permission.DUMP" >
+87-->[androidx.profileinstaller:profileinstaller:1.0.3] /home/ryggs/.gradle/caches/transforms-3/c8294d0a99fdb70e802b8f638a2c67dd/transformed/jetified-profileinstaller-1.0.3/AndroidManifest.xml:41:13-57
+88            <intent-filter>
+88-->[androidx.profileinstaller:profileinstaller:1.0.3] /home/ryggs/.gradle/caches/transforms-3/c8294d0a99fdb70e802b8f638a2c67dd/transformed/jetified-profileinstaller-1.0.3/AndroidManifest.xml:42:13-44:29
+89                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+89-->[androidx.profileinstaller:profileinstaller:1.0.3] /home/ryggs/.gradle/caches/transforms-3/c8294d0a99fdb70e802b8f638a2c67dd/transformed/jetified-profileinstaller-1.0.3/AndroidManifest.xml:43:17-91
+89-->[androidx.profileinstaller:profileinstaller:1.0.3] /home/ryggs/.gradle/caches/transforms-3/c8294d0a99fdb70e802b8f638a2c67dd/transformed/jetified-profileinstaller-1.0.3/AndroidManifest.xml:43:25-88
+90            </intent-filter>
+91        </receiver>
+92    </application>
+93
+94</manifest>
